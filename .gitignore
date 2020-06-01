@@ -1,2 +1,4 @@
 .ipynb_checkpoints/
 outputs/
+__pycache__/
+network/__pycache__/image_transformer_net.cpython-37.pyc
